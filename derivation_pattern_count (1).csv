@@ -1,0 +1,22 @@
+in_cell	out_cell	in_pattern	out_pattern	count_phon	count_orth
+V	action	ir	issement	120	243
+V	action	ir	issage	16	81
+V	action	ir	ition	10	18
+action	V	issement	ir	120	243
+action	V	issement	isser	15	33
+action	V	issement	er	0	4
+V	agent	er	eur	683	1730
+V	agent	er	ateur	165	349
+V	agent	er	ataire	?	?
+agent	V	ateur	er	165	349
+agent	V	ateur	ater	3	14
+agent	V	ateur	atir	1	1
+action	agent	ation	ateur	190	426
+action	agent	ation	eur	37	186
+action	agent	ation	iteur		0
+agent	action	ateur	ion	0	4
+agent	action	ateur	ation	190	426
+agent	action	ateur	atage	2	47
+agent	action	ateur	age	6	0
+agent	action	[^at]eur	age	274	1016
+agent	action	[^at]eur	ation	36	181
